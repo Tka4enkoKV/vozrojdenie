@@ -1,0 +1,9 @@
+.helper__search {
+  width: 724px;
+  height: 66px;
+  border-radius: 10px;
+  margin: 16px auto 0;
+  padding: 0;
+  border: 0;
+  display: flex;
+}

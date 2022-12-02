@@ -1,0 +1,10 @@
+.banner {
+  background-image: url(../../images/banner.png);
+  background-color: black;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 482px;
+  width: 100%;
+  border-top: 5px solid #F1D693;
+  border-bottom: 5px solid #F1D693;
+}

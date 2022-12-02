@@ -1,0 +1,6 @@
+.service__image {
+  height: 100%;
+  border: 2px solid #F1D693;
+  border-radius: 10px;
+  background-color: black;
+}

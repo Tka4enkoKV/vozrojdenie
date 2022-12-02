@@ -1,0 +1,10 @@
+.banner__title {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 52px;
+  color: #FFFFFF;
+  max-width: 633px;
+  margin: 107px 0 0 162px;
+}

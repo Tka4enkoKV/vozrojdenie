@@ -1,0 +1,12 @@
+.helper {
+  display: flex;
+  flex-direction: column;
+  background-image: url(../../images/main.jpeg);
+  background-color: black;
+  background-position: center;
+  background-size: cover;
+  height: 707px;
+  width: 100%;
+  margin: auto;
+  border-bottom: 5px solid #F1D693;
+}

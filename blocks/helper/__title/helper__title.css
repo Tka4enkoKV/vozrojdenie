@@ -1,0 +1,12 @@
+.helper__title {
+  font-family: "Bertilion";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 50px;
+  line-height: 57px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #D9A900;
+  max-width: 648px;
+  margin: 143px auto 0;
+}

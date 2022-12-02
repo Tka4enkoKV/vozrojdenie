@@ -1,0 +1,12 @@
+.service__text {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 22px;
+  line-height: 22px;
+  margin: 0 auto;
+  position: absolute;
+  bottom: 22px;
+  left: 50%;
+  transform: translate(-50%);
+}

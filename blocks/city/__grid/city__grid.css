@@ -1,0 +1,9 @@
+.city__grid {
+  display: grid;
+  margin: auto;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: repeat(2, 1fr);
+  gap: 16px;
+  list-style: none;
+  padding: 0;
+}

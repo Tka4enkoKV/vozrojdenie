@@ -1,0 +1,8 @@
+.important__grid {
+  display: grid;
+  margin: auto;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: 1fr, repeat(2, minmax(min-content, max-content));
+  column-gap: 12px;
+  row-gap: 15px;
+}

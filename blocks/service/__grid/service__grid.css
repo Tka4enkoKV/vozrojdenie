@@ -1,0 +1,9 @@
+.service__grid {
+  display: grid;
+  margin: auto;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: 393px;
+  gap: 16px;
+  list-style: none;
+  padding: 0;
+}

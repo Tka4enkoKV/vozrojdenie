@@ -1,0 +1,13 @@
+.banner__text {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 24px;
+  color: #FFFFFF;
+  margin: 17px 0 6px 162px;
+}
+
+.banner__text:last-of-type {
+  margin-top: 0;
+}
